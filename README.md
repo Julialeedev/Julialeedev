@@ -93,7 +93,7 @@ I enjoy transforming **complex data and workflows into clean, intuitive user exp
 
 ---
 
-## 💡 What I Can Do
+## 💡 What My Major is
 
 - Build **high-performance React + TypeScript applications** with modern front-end architecture
 - Create **UX-focused dashboards** for fintech, analytics, and data-heavy platforms
